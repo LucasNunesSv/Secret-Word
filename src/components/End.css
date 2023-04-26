@@ -1,0 +1,44 @@
+.end {
+    background-color: white;
+    border-radius: 10px;
+    border-radius: 10px;
+    padding: 50px;
+
+}
+
+.endContainer {
+    background-color: #49118d;
+    margin-top: 110px;
+    padding-top: 6px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.212);
+}
+
+.end p {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.end h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+}
+
+.score {
+    font-size: 5em;
+    background-color: #49118d;
+    display: inline-flex;
+    padding: 0px 100px;
+    justify-content: center;
+    border-radius: 50px;
+    color: #fff;
+    margin-bottom: 30px;
+    margin-top: 20px;
+
+}
+
+.end button {
+    margin-top: 15px;
+}

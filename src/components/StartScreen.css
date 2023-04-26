@@ -1,0 +1,35 @@
+.start {
+    background-color: white;
+    border-radius: 10px;
+    border-radius: 10px;
+    padding: 25px 50px 50px 50px;
+}
+
+.startContainer {
+    background-color: #49118d;
+    margin-top: 150px;
+    padding-top: 6px;
+    border-radius: 15px;
+    box-shadow:  10px 10px 10px rgba(0, 0, 0, 0.212);
+}
+
+.start h1 {
+    font-size: 30px;
+}
+
+.start h1 span{
+    font-size: 2em;
+    color: blueviolet;
+}
+
+.start p {
+    margin-bottom: 2em;
+    font-size: 1.1em;
+    margin-top: 10px;
+}
+
+.start img {
+    max-width: 80px;
+    margin-bottom: 10px;
+}
+
